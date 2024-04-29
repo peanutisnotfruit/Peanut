@@ -5,3 +5,5 @@ fav_artist = {
 }
 
 print(fav_artist['name'])
+fav_artist['name'] = 'Revenscode'
+print(fav_artist['name'])
