@@ -10,5 +10,8 @@ myitem = ['phone', 'laptop', 'desktop', 'TV', 'headphone', 'earphone']
 # if 'TV' in myitem:
 #     print("Yes it is")
 
-myitem.insert(1, "PS5")
+# myitem.insert(1, "PS5")
+# print(myitem)
+
+myitem[2] = "Monitor"
 print(myitem)
