@@ -7,5 +7,8 @@ myitem = ['phone', 'laptop', 'desktop', 'TV', 'headphone', 'earphone']
 # print(myitem[2:])
 # print(myitem[:5])
 
-if 'TV' in myitem:
-    print("Yes it is")
+# if 'TV' in myitem:
+#     print("Yes it is")
+
+myitem.insert(1, "PS5")
+print(myitem)
